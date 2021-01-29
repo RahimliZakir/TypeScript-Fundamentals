@@ -1,1 +1,1 @@
-# TypeScript-Fundamentals-
+TypeScript Fundamentals by Zakir Rahimli.
